@@ -608,8 +608,6 @@ final Map<String, IconData> _iconMap = {
   'file': LucideIcons.file,
   'files': LucideIcons.files,
   'film': LucideIcons.film,
-  'filterX': LucideIcons.filterX,
-  'filter': LucideIcons.filter,
   'fingerprint': LucideIcons.fingerprint,
   'fireExtinguisher': LucideIcons.fireExtinguisher,
   'fishOff': LucideIcons.fishOff,
